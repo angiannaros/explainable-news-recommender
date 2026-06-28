@@ -1,2 +1,1 @@
-# Thesis
-My thesis project creating a distributed news aggregator system using XAI that combats the echo chamber phenomenon 
+Explainable News Recommender is a research platform for personalized, diversity-aware, and explainable news recommendation. The original implementation was developed by Christos Karamanos as part of his BSc thesis at the University of Patras. This fork is maintained to ensure the long-term availability and reproducibility of the published research while serving as a foundation for future work on AI-mediated information environments.
